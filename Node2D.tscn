@@ -1,13 +1,14 @@
-[gd_scene load_steps=3 format=2]
+[gd_scene load_steps=3 format=3 uid="uid://csacmb05ugao"]
 
-[sub_resource type="CameraTexture" id=1]
-
-[sub_resource type="CurveTexture" id=2]
+[ext_resource type="PackedScene" uid="uid://bm6nbecpbuo36" path="res://Scenes/Character.tscn" id="2_c0prh"]
+[ext_resource type="PackedScene" uid="uid://cgehnukwi7scy" path="res://Scenes/TestPlatform.tscn" id="2_cjn8j"]
 
 [node name="Node2D" type="Node2D"]
 
-[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+[node name="Character" parent="." instance=ExtResource("2_c0prh")]
+position = Vector2(233, 422)
+scale = Vector2(3.88, 3.88)
 
-[node name="Sprite" type="Sprite" parent="."]
-texture = SubResource( 1 )
-normal_map = SubResource( 2 )
+[node name="TestPlatform" parent="." instance=ExtResource("2_cjn8j")]
+position = Vector2(578, 578)
+scale = Vector2(-1048.31, 122.308)

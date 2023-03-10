@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dgc074k7lvukw"
-path="res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex"
+uid="uid://dt4g5846kte8k"
+path="res://.godot/imported/kickingcreatureidle.png-6749aa30dedde95c66dda82f0b0fb87f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://icon.png"
-dest_files=["res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex"]
+source_file="res://Scenes/kickingcreatureidle.png"
+dest_files=["res://.godot/imported/kickingcreatureidle.png-6749aa30dedde95c66dda82f0b0fb87f.ctex"]
 
 [params]
 

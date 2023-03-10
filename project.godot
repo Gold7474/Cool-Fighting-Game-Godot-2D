@@ -6,12 +6,22 @@
 ;   [section] ; section goes between []
 ;   param=value ; assign values to parameters
 
-config_version=4
+config_version=5
 
 [application]
 
 config/name="Cool Fighting Game"
+run/main_scene="res://Node2D.tscn"
+config/features=PackedStringArray("4.0")
 config/icon="res://icon.png"
+
+[dotnet]
+
+project/assembly_name="Cool Fighting Game"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/AsepriteWizard/plugin.cfg")
 
 [gui]
 
@@ -23,4 +33,5 @@ common/enable_pause_aware_picking=true
 
 [rendering]
 
+textures/canvas_textures/default_texture_filter=0
 environment/default_environment="res://default_env.tres"
