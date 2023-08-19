@@ -12,7 +12,7 @@ extends CharacterBody2D
 @export var FALL_SPEED = 200
 @export var FAST_FALL_SPEED = 400
 @export var JUMP_SQUAT = 4
-
+@export var TURN_TIME = 3
 
 var movement_velocity = Vector2(0, 0)
 var current_aerial_jumps = 0
@@ -81,11 +81,11 @@ func _physics_process(delta):
 			right_to_left.visible = true
 			sprite.visible = false
 			sprite.flip_h = true
-			turn_around_countdown = 1
+			turn_around_countdown = TURN_TIME
 		elif direction > 0 and sprite.flip_h:
 			left_to_right.visible = true
 			sprite.visible = false
 			sprite.flip_h = false
-			turn_around_countdown = 1
+			turn_around_countdown = TURN_TIME
 			
 	is_fast_falling = !is_on_floor() and Input.is_action_pressed("Crouch")
