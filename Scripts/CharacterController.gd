@@ -22,6 +22,8 @@ var jump_countdown = -1
 @onready var Animation_Player = $AnimationPlayer
 
 @onready var sprite = $Sprite2D
+@onready var right_to_left = $"Front Facing Sprite"
+@onready var left_to_right = $"Back Facing Sprite"
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
@@ -64,10 +66,17 @@ func _physics_process(delta):
 	velocity.x = movement_velocity.x
 	move_and_slide()
 	
+	right_to_left.visible = false
+	left_to_right.visible = false
+	
 	if is_on_floor():
 		if direction < 0:
+			if sprite.flip_h == false:
+				right_to_left.visible = true
 			sprite.flip_h = true
 		elif direction > 0:
+			if sprite.flip_h:
+				left_to_right.visible = true
 			sprite.flip_h = false
 			
 	is_fast_falling = !is_on_floor() and Input.is_action_pressed("Crouch")

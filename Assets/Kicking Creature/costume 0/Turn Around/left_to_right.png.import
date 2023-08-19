@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bap04rvewi24a"
-path="res://.godot/imported/kickingcreaturebairHITBOX_strip9.png-9ca5a485b25c7ddbb92aa3bf70fdbf84.ctex"
+uid="uid://c52ghxtki1ydw"
+path="res://.godot/imported/left_to_right.png-5ad453a6e12a243957f06b0605bc6b87.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kicking Creature/costume 0/Old/Back Air/kickingcreaturebairHITBOX_strip9.png"
-dest_files=["res://.godot/imported/kickingcreaturebairHITBOX_strip9.png-9ca5a485b25c7ddbb92aa3bf70fdbf84.ctex"]
+source_file="res://Assets/Kicking Creature/costume 0/Turn Around/left_to_right.png"
+dest_files=["res://.godot/imported/left_to_right.png-5ad453a6e12a243957f06b0605bc6b87.ctex"]
 
 [params]
 

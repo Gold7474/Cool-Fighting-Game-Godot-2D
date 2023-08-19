@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cwiii3ekxkipr"
-path="res://.godot/imported/kickingcreaturedsmashHURTBOX_strip16.png-588c8d3579637532cc470e9721e1cbac.ctex"
+uid="uid://cjda0vhcewoeh"
+path="res://.godot/imported/right_to_left.png-7e0300bbe592ff59a03d281bbc565b91.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Kicking Creature/costume 0/Down Smash/kickingcreaturedsmashHURTBOX_strip16.png"
-dest_files=["res://.godot/imported/kickingcreaturedsmashHURTBOX_strip16.png-588c8d3579637532cc470e9721e1cbac.ctex"]
+source_file="res://Assets/Kicking Creature/costume 0/Turn Around/right_to_left.png"
+dest_files=["res://.godot/imported/right_to_left.png-7e0300bbe592ff59a03d281bbc565b91.ctex"]
 
 [params]
 

@@ -1,8 +1,53 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1692430059
-default_env.tres::Environment::8528537994461198101::1677998613::0::1::::<><>::
-icon.png::CompressedTexture2D::2493594762123420279::1677991569::1677994614::1::::<><>::
-Node2D.tscn::PackedScene::4909208585091919378::1677998613::0::1::::<><>::
+::res://::1692439097
+default_env.tres::Environment::8528537994461198101::1692439097::0::1::::<><>::
+icon.png::CompressedTexture2D::7586100478734415762::1677991569::1692430832::1::::<><>::
+Node2D.tscn::PackedScene::4909208585091919378::1692439097::0::1::::<><>::uid://bm6nbecpbuo36::::res://Scenes/Character.tscn<>uid://cgehnukwi7scy::::res://Scenes/TestPlatform.tscn
+::res://addons/::1692430832
+::res://addons/AsepriteWizard/::1692430832
+plugin.cfg::TextFile::-1::1692430832::0::1::::<><>::
+plugin.gd::GDScript::-1::1692430832::0::1::::<>EditorPlugin<>::
+::res://addons/AsepriteWizard/animated_sprite/::1692430832
+import_plugin.gd::GDScript::-1::1692430832::0::1::::<>EditorImportPlugin<>::
+inspector_plugin.gd::GDScript::-1::1692430832::0::1::::<>EditorInspectorPlugin<>::
+sprite_frames_creator.gd::GDScript::-1::1692430832::0::1::::<>RefCounted<>::
+::res://addons/AsepriteWizard/animated_sprite/docks/::1692430832
+animated_sprite_inspector_dock.gd::GDScript::-1::1692430832::0::1::::<>PanelContainer<>::
+animated_sprite_inspector_dock.tscn::PackedScene::1482828111488489973::1692430832::0::1::::<><>::res://addons/AsepriteWizard/animated_sprite/docks/animated_sprite_inspector_dock.gd
+as_wizard_dock_container.gd::GDScript::-1::1692430832::0::1::::<>TabContainer<>::
+as_wizard_dock_container.tscn::PackedScene::-1::1692430832::0::1::::<><>::res://addons/AsepriteWizard/animated_sprite/docks/as_wizard_window.tscn<>res://addons/AsepriteWizard/animated_sprite/docks/as_wizard_dock_container.gd<>res://addons/AsepriteWizard/animated_sprite/docks/sprite_frames_import_history.tscn
+as_wizard_window.gd::GDScript::-1::1692430832::0::1::::<>PanelContainer<>::
+as_wizard_window.tscn::PackedScene::6886060651346363495::1692430832::0::1::::<><>::res://addons/AsepriteWizard/animated_sprite/docks/as_wizard_window.gd
+sprite_frames_import_history.gd::GDScript::-1::1692430832::0::1::::<>PanelContainer<>::
+sprite_frames_import_history.tscn::PackedScene::6486785450419732274::1692430832::0::1::::<><>::res://addons/AsepriteWizard/animated_sprite/docks/sprite_frames_import_history.gd
+::res://addons/AsepriteWizard/animated_sprite/docks/wizard_nodes/::1692430832
+import_date.gd::GDScript::-1::1692430832::0::1::::<>Label<>::
+import_date.tscn::PackedScene::-1::1692430832::0::1::::<><>::res://addons/AsepriteWizard/animated_sprite/docks/wizard_nodes/import_date.gd
+list_actions.gd::GDScript::-1::1692430832::0::1::::<>HBoxContainer<>::
+list_actions.tscn::PackedScene::-1::1692430832::0::1::::<><>::res://addons/AsepriteWizard/animated_sprite/docks/wizard_nodes/list_actions.gd
+output_path.tscn::PackedScene::-1::1692430832::0::1::::<><>::
+source_path.gd::GDScript::-1::1692430832::0::1::::<>LineEdit<>::
+source_path.tscn::PackedScene::-1::1692430832::0::1::::<><>::res://addons/AsepriteWizard/animated_sprite/docks/wizard_nodes/source_path.gd
+::res://addons/AsepriteWizard/animation_player/::1692430832
+animation_creator.gd::GDScript::-1::1692430832::0::1::::<>RefCounted<>::
+inspector_plugin.gd::GDScript::-1::1692430832::0::1::::<>EditorInspectorPlugin<>::
+sprite_animation_creator.gd::GDScript::-1::1692430832::0::1::::<><>::
+texture_rect_animation_creator.gd::GDScript::-1::1692430832::0::1::::<><>::
+::res://addons/AsepriteWizard/animation_player/docks/::1692430832
+animation_player_inspector_dock.gd::GDScript::-1::1692430832::0::1::::<>PanelContainer<>::
+animation_player_inspector_dock.tscn::PackedScene::2998581922542402478::1692430832::0::1::::<><>::res://addons/AsepriteWizard/animation_player/docks/animation_player_inspector_dock.gd
+::res://addons/AsepriteWizard/aseprite/::1692430832
+aseprite.gd::GDScript::-1::1692430832::0::1::::<>RefCounted<>::
+::res://addons/AsepriteWizard/config/::1692430832
+2d_pixel_preset.cfg::TextFile::-1::1692430832::0::1::::<><>::
+config.gd::GDScript::-1::1692430832::0::1::::<>RefCounted<>::
+config_dialog.gd::GDScript::-1::1692430832::0::1::::<>PopupPanel<>::
+config_dialog.tscn::PackedScene::8959845410224223728::1692430832::0::1::::<><>::res://addons/AsepriteWizard/config/config_dialog.gd
+result_codes.gd::GDScript::-1::1692430832::0::1::::<>RefCounted<>::
+wizard_config.gd::GDScript::-1::1692430832::0::1::::<>RefCounted<>::
+::res://addons/AsepriteWizard/export/::1692430832
+metadata_export_plugin.gd::GDScript::-1::1692430832::0::1::::<>EditorExportPlugin<>::
+::res://Aseprite/::1692430832
 ::res://Assets/::1677998484
 100203.png::CompressedTexture2D::4176763301481265274::1670388389::1677998484::1::::<><>::
 epic_background_bottom1.png::CompressedTexture2D::2159373984631921704::1664756103::1677998484::1::::<><>::
@@ -21,62 +66,13 @@ HeroinPortrait.png::CompressedTexture2D::8662627125101035551::1663893365::167799
 KickingCreaturePortrait.png::CompressedTexture2D::8472607298345284612::1663643301::1677998484::1::::<><>::
 KickingCreatureStockIcon.png::CompressedTexture2D::8043583915563850011::1670904723::1677998484::1::::<><>::
 Portrait.png::CompressedTexture2D::2203237224371569388::1661494597::1677998484::1::::<><>::
-::res://Assets/Kicking Creature/costume 0/::1677995337
-::res://Assets/Kicking Creature/costume 0/Back Air/::1677998484
-kickingcreaturebackairHITBOX_strip15.png::CompressedTexture2D::1627709518543532288::1669953307::1677998484::1::::<><>::
-kickingcreaturebackairHURTBOX_strip15.png::CompressedTexture2D::6470089620641651291::1669953277::1677998484::1::::<><>::
-kickingcreaturebackair_strip15.png::CompressedTexture2D::3633110237144196112::1669953174::1677998484::1::::<><>::
-::res://Assets/Kicking Creature/costume 0/Down Air/::1677998484
-kickingcreaturedairHITBOX_strip11.png::CompressedTexture2D::748164620250273834::1661283356::1677998484::1::::<><>::
-kickingcreaturedair_strip11.png::CompressedTexture2D::1712335562717570360::1661226883::1677998484::1::::<><>::
-::res://Assets/Kicking Creature/costume 0/Down Smash/::1677998484
-kickingcreaturedsmashHITBOX_strip16.png::CompressedTexture2D::2486624738836709301::1661474802::1677998484::1::::<><>::
-kickingcreaturedsmashHURTBOX_strip16.png::CompressedTexture2D::6334012449067278127::1661474744::1677998484::1::::<><>::
-kickingcreaturedsmash_strip16.png::CompressedTexture2D::3069013390027453211::1661474710::1677998484::1::::<><>::
-::res://Assets/Kicking Creature/costume 0/Forward Air/::1677998484
-kickingcreatureforwardairHITBOX_strip16.png::CompressedTexture2D::6765572296071934875::1670016474::1677998484::1::::<><>::
-kickingcreatureforwardairHURTBOX_strip16.png::CompressedTexture2D::5402310296500431827::1670016456::1677998484::1::::<><>::
-kickingcreatureforwardair_strip16.png::CompressedTexture2D::2025207545077145211::1670016439::1677998484::1::::<><>::
-::res://Assets/Kicking Creature/costume 0/Forward Smash/::1677998484
-kickingcreaturefsmashHITBOX_strip10.png::CompressedTexture2D::8206883340825451946::1661275383::1677998484::1::::<><>::
-kickingcreaturefsmashHURTBOX_strip10.png::CompressedTexture2D::1069044609064441835::1661316143::1677998484::1::::<><>::
-kickingcreaturefsmash_strip10.png::CompressedTexture2D::4764829463069393932::1660685671::1677998484::1::::<><>::
-::res://Assets/Kicking Creature/costume 0/Grab/::1677995336
-::res://Assets/Kicking Creature/costume 0/Hit Stun/::1677998484
-kickingcreaturehitstun.png::CompressedTexture2D::168550297208492489::1661487451::1677998484::1::::<><>::
-kickingcreaturehitstun_HURTBOX.png::CompressedTexture2D::9093402010366175175::1661487508::1677998484::1::::<><>::
+::res://Assets/Kicking Creature/costume 0/::1692439908
 ::res://Assets/Kicking Creature/costume 0/Idle/::1677998484
 kickingcreatureidleHURTBOX_strip4.png::CompressedTexture2D::1565354110281961599::1670976557::1677998484::1::::<><>::
 kickingcreatureidle_strip4.png::CompressedTexture2D::3599869760550775084::1670976539::1677998484::1::::<><>::
-::res://Assets/Kicking Creature/costume 0/Ledge Grab/::1677995337
-::res://Assets/Kicking Creature/costume 0/Neutral Air/::1677998484
-kickingcreaturenairHITBOX_strip16.png::CompressedTexture2D::4567900601395307669::1664000280::1677998484::1::::<><>::
-kickingcreaturenairHURTBOX_strip16.png::CompressedTexture2D::1457665229654742981::1664000234::1677998484::1::::<><>::
-kickingcreaturenair_strip16.png::CompressedTexture2D::8048329271701716604::1664000192::1677998484::1::::<><>::
-::res://Assets/Kicking Creature/costume 0/Neutral Smash/::1677998484
-kickingcreaturensmashHITBOX_strip9.png::CompressedTexture2D::5327883949580558150::1661282146::1677998484::1::::<><>::
-kickingcreaturensmashHURTBOX_strip9.png::CompressedTexture2D::7611841958575805622::1661287933::1677998484::1::::<><>::
-kickingcreaturensmash_strip9.png::CompressedTexture2D::797395455205145331::1661210055::1677998484::1::::<><>::
-::res://Assets/Kicking Creature/costume 0/Old/::1677995337
-::res://Assets/Kicking Creature/costume 0/Old/Back Air/::1677998484
-kickingcreaturebairHITBOX_strip9.png::CompressedTexture2D::2418956988395734182::1661283179::1677998484::1::::<><>::
-kickingcreaturebairHURTBOX_strip9.png::CompressedTexture2D::2153216540320958570::1661286615::1677998484::1::::<><>::
-kickingcreaturebair_strip9.png::CompressedTexture2D::506620152030881516::1661200936::1677998484::1::::<><>::
-::res://Assets/Kicking Creature/costume 0/Old/Forward Air/::1677998484
-kickingcreaturefairHITBOX_strip11.png::CompressedTexture2D::7412559831954860696::1661280643::1677998484::1::::<><>::
-kickingcreaturefair_strip11.png::CompressedTexture2D::4722332999125531052::1661208525::1677998484::1::::<><>::
-::res://Assets/Kicking Creature/costume 0/Up Air/::1677998484
-kickingcreatureuairHITBOX_strip12.png::CompressedTexture2D::3696874837247023836::1661283269::1677998484::1::::<><>::
-kickingcreatureuairHURTBOX_strip12.png::CompressedTexture2D::8268738856053335910::1661289968::1677998484::1::::<><>::
-kickingcreatureuair_strip12.png::CompressedTexture2D::927347712922545852::1661220553::1677998484::1::::<><>::
-::res://Assets/Kicking Creature/costume 0/Up Smash/::1677998484
-kickingcreatureupsmashHITBOX_strip16.png::CompressedTexture2D::5769760489425286750::1677731573::1677998484::1::::<><>::
-kickingcreatureupsmashHURTBOX_strip16.png::CompressedTexture2D::631657565428217819::1677730656::1677998484::1::::<><>::
-kickingcreatureupsmash_strip16.png::CompressedTexture2D::8621898077425923984::1677730619::1677998484::1::::<><>::
-::res://Assets/Kicking Creature/costume 0/Up Smash/Old/::1677998484
-kickingcreatureusmashHITBOX_strip19.png::CompressedTexture2D::7392209433776151839::1661485300::1677998484::1::::<><>::
-kickingcreatureusmashHURTBOX_strip19.png::CompressedTexture2D::2080022715774389366::1661485264::1677998484::1::::<><>::
-kickingcreatureusmash_strip19.png::CompressedTexture2D::2385626490054686489::1661485230::1677998484::1::::<><>::
+::res://Assets/Kicking Creature/costume 0/Turn Around/::1692439925
+left_to_right.png::CompressedTexture2D::6934622916255152556::1692439925::1692439925::1::::<><>::
+right_to_left.png::CompressedTexture2D::5410779852139376439::1692439925::1692439925::1::::<><>::
 ::res://Assets/Kicking Creature/costume 1/::1677995337
 ::res://Assets/Kicking Creature/costume 1/Forward Smash/::1677998484
 kickingcreaturefsmash1_strip10.png::CompressedTexture2D::5974719979246358825::1664042753::1677998484::1::::<><>::
@@ -171,3 +167,16 @@ main6bL.dsp.wav::AudioStreamWAV::1856890589178780204::1292257918::1677998484::1:
 main30.dsp.wav::AudioStreamWAV::1214023359496914248::1292257918::1677998484::1::::<><>::
 main36L.dsp.wav::AudioStreamWAV::6713331311940025187::1292257918::1677998484::1::::<><>::
 main36R.dsp.wav::AudioStreamWAV::721860825254391913::1292257918::1677998484::1::::<><>::
+::res://Scenes/::1692439097
+Body.png::CompressedTexture2D::2315744620962367082::1692430832::1692438813::1::::<><>::
+Character.tscn::PackedScene::3293473838291891999::1692439097::0::1::::<><>::res://Scripts/CharacterController.gd<>uid://7808f057qq6m::::res://Scenes/Body.png
+kickingcreatureidle.png::CompressedTexture2D::8553136690335894484::1692430832::1692438813::1::::<><>::
+TestPlatform.tscn::PackedScene::5202681241427360100::1692439096::0::1::::<><>::
+::res://Scripts/::1692438872
+CharacterController.gd::GDScript::-1::1692438872::0::1::::<>CharacterBody2D<>::
+Test.gd::GDScript::-1::1692430832::0::1::::<>Node<>::
+::res://Sprites/::1692430832
+::res://Sprites/Characters/::1692430832
+::res://Sprites/Characters/Kicking Creature/::1692430832
+::res://Sprites/Characters/Kicking Creature/Costume 1/::1692438813
+kickingcreatureidle_strip4.png::CompressedTexture2D::3228665178999696386::1692430832::1692438813::1::::<><>::
