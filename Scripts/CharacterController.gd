@@ -18,6 +18,7 @@ var movement_velocity = Vector2(0, 0)
 var current_aerial_jumps = 0
 var is_fast_falling = false
 var jump_countdown = -1
+var turn_around_countdown = -1
 
 @onready var Animation_Player = $AnimationPlayer
 
@@ -66,17 +67,25 @@ func _physics_process(delta):
 	velocity.x = movement_velocity.x
 	move_and_slide()
 	
-	right_to_left.visible = false
-	left_to_right.visible = false
+	
+	if turn_around_countdown > 0:
+		turn_around_countdown -= 1
+	elif turn_around_countdown == 0:
+		right_to_left.visible = false
+		left_to_right.visible = false
+		sprite.visible = true
+		turn_around_countdown = -1
 	
 	if is_on_floor():
-		if direction < 0:
-			if sprite.flip_h == false:
-				right_to_left.visible = true
+		if direction < 0 and not sprite.flip_h:
+			right_to_left.visible = true
+			sprite.visible = false
 			sprite.flip_h = true
-		elif direction > 0:
-			if sprite.flip_h:
-				left_to_right.visible = true
+			turn_around_countdown = 1
+		elif direction > 0 and sprite.flip_h:
+			left_to_right.visible = true
+			sprite.visible = false
 			sprite.flip_h = false
+			turn_around_countdown = 1
 			
 	is_fast_falling = !is_on_floor() and Input.is_action_pressed("Crouch")
