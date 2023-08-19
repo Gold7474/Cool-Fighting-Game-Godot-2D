@@ -1,13 +1,8 @@
-[gd_scene load_steps=3 format=2]
+[gd_scene load_steps=2 format=3 uid="uid://cb7b7icf2jxmg"]
 
-[sub_resource type="CameraTexture" id=1]
-
-[sub_resource type="CurveTexture" id=2]
+[sub_resource type="CameraTexture" id="1"]
 
 [node name="Node2D" type="Node2D"]
 
-[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
-
 [node name="Sprite2D" type="Sprite2D" parent="."]
-texture = SubResource( 1 )
-normal_map = SubResource( 2 )
+texture = SubResource("1")

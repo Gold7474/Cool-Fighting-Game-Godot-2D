@@ -1,173 +1,173 @@
-2a60927148abd1d33b818b535e306557
-::res://::1677991760
-default_env.tres::Environment::-1::1677989964::0::1::::<><>::
-icon.png::CompressedTexture2D::2493594762123420279::1677987969::1677991014::1::::<><>::
-Node2D.tscn::PackedScene::-1::1677989964::0::1::::<><>::
-::res://Assets/::1677991962
-100203.png::CompressedTexture2D::4176763301481265274::1670384789::1677994884::1::::<><>::
-epic_background_bottom1.png::CompressedTexture2D::2159373984631921704::1664752503::1677994884::1::::<><>::
-epic_background_top.png::CompressedTexture2D::3531636669501044970::1664676437::1677994884::1::::<><>::
-player1_cursor.png::CompressedTexture2D::7572456019607324800::1665275072::1677994884::1::::<><>::
-player2_cursor.png::CompressedTexture2D::8984839177797687706::1665275054::1677994884::1::::<><>::
-testdummy.png::CompressedTexture2D::6998565971133444963::1661271987::1677994884::1::::<><>::
-whitebg.png::CompressedTexture2D::2841278061398086417::1660694003::1677994884::1::::<><>::
-::res://Assets/Heroin/::1677991959
-HeroinPortrait.png::CompressedTexture2D::8662627125101035551::1663889765::1677994884::1::::<><>::
-::res://Assets/Heroin/Aerials/::1670630059
-::res://Assets/Heroin/Other/::1670630069
-::res://Assets/Heroin/Smash Attacks/::1670630064
-::res://Assets/Heroin/Specials/::1670630075
-::res://Assets/Kicking Creature/::1677991737
-KickingCreaturePortrait.png::CompressedTexture2D::8472607298345284612::1663639701::1677994884::1::::<><>::
-KickingCreatureStockIcon.png::CompressedTexture2D::8043583915563850011::1670901123::1677994884::1::::<><>::
-Portrait.png::CompressedTexture2D::2203237224371569388::1661490997::1677994884::1::::<><>::
-::res://Assets/Kicking Creature/costume 0/::1677991737
-::res://Assets/Kicking Creature/costume 0/Back Air/::1677991736
-kickingcreaturebackairHITBOX_strip15.png::CompressedTexture2D::1627709518543532288::1669949707::1677994884::1::::<><>::
-kickingcreaturebackairHURTBOX_strip15.png::CompressedTexture2D::6470089620641651291::1669949677::1677994884::1::::<><>::
-kickingcreaturebackair_strip15.png::CompressedTexture2D::3633110237144196112::1669949574::1677994884::1::::<><>::
-::res://Assets/Kicking Creature/costume 0/Down Air/::1677991736
-kickingcreaturedairHITBOX_strip11.png::CompressedTexture2D::748164620250273834::1661279756::1677994884::1::::<><>::
-kickingcreaturedair_strip11.png::CompressedTexture2D::1712335562717570360::1661223283::1677994884::1::::<><>::
-::res://Assets/Kicking Creature/costume 0/Down Smash/::1677991736
-kickingcreaturedsmashHITBOX_strip16.png::CompressedTexture2D::2486624738836709301::1661471202::1677994884::1::::<><>::
-kickingcreaturedsmashHURTBOX_strip16.png::CompressedTexture2D::6334012449067278127::1661471144::1677994884::1::::<><>::
-kickingcreaturedsmash_strip16.png::CompressedTexture2D::3069013390027453211::1661471110::1677994884::1::::<><>::
-::res://Assets/Kicking Creature/costume 0/Forward Air/::1677991736
-kickingcreatureforwardairHITBOX_strip16.png::CompressedTexture2D::6765572296071934875::1670012874::1677994884::1::::<><>::
-kickingcreatureforwardairHURTBOX_strip16.png::CompressedTexture2D::5402310296500431827::1670012856::1677994884::1::::<><>::
-kickingcreatureforwardair_strip16.png::CompressedTexture2D::2025207545077145211::1670012839::1677994884::1::::<><>::
-::res://Assets/Kicking Creature/costume 0/Forward Smash/::1677991736
-kickingcreaturefsmashHITBOX_strip10.png::CompressedTexture2D::8206883340825451946::1661271783::1677994884::1::::<><>::
-kickingcreaturefsmashHURTBOX_strip10.png::CompressedTexture2D::1069044609064441835::1661312543::1677994884::1::::<><>::
-kickingcreaturefsmash_strip10.png::CompressedTexture2D::4764829463069393932::1660682071::1677994884::1::::<><>::
-::res://Assets/Kicking Creature/costume 0/Grab/::1677991736
-::res://Assets/Kicking Creature/costume 0/Hit Stun/::1677991737
-kickingcreaturehitstun.png::CompressedTexture2D::168550297208492489::1661483851::1677994884::1::::<><>::
-kickingcreaturehitstun_HURTBOX.png::CompressedTexture2D::9093402010366175175::1661483908::1677994884::1::::<><>::
-::res://Assets/Kicking Creature/costume 0/Idle/::1677991737
-kickingcreatureidleHURTBOX_strip4.png::CompressedTexture2D::1565354110281961599::1670972957::1677994884::1::::<><>::
-kickingcreatureidle_strip4.png::CompressedTexture2D::3599869760550775084::1670972939::1677994884::1::::<><>::
-::res://Assets/Kicking Creature/costume 0/Ledge Grab/::1677991737
-::res://Assets/Kicking Creature/costume 0/Neutral Air/::1677991737
-kickingcreaturenairHITBOX_strip16.png::CompressedTexture2D::4567900601395307669::1663996680::1677994884::1::::<><>::
-kickingcreaturenairHURTBOX_strip16.png::CompressedTexture2D::1457665229654742981::1663996634::1677994884::1::::<><>::
-kickingcreaturenair_strip16.png::CompressedTexture2D::8048329271701716604::1663996592::1677994884::1::::<><>::
-::res://Assets/Kicking Creature/costume 0/Neutral Smash/::1677991737
-kickingcreaturensmashHITBOX_strip9.png::CompressedTexture2D::5327883949580558150::1661278546::1677994884::1::::<><>::
-kickingcreaturensmashHURTBOX_strip9.png::CompressedTexture2D::7611841958575805622::1661284333::1677994884::1::::<><>::
-kickingcreaturensmash_strip9.png::CompressedTexture2D::797395455205145331::1661206455::1677994884::1::::<><>::
-::res://Assets/Kicking Creature/costume 0/Old/::1677991737
-::res://Assets/Kicking Creature/costume 0/Old/Back Air/::1677991737
-kickingcreaturebairHITBOX_strip9.png::CompressedTexture2D::2418956988395734182::1661279579::1677994884::1::::<><>::
-kickingcreaturebairHURTBOX_strip9.png::CompressedTexture2D::2153216540320958570::1661283015::1677994884::1::::<><>::
-kickingcreaturebair_strip9.png::CompressedTexture2D::506620152030881516::1661197336::1677994884::1::::<><>::
-::res://Assets/Kicking Creature/costume 0/Old/Forward Air/::1677991737
-kickingcreaturefairHITBOX_strip11.png::CompressedTexture2D::7412559831954860696::1661277043::1677994884::1::::<><>::
-kickingcreaturefair_strip11.png::CompressedTexture2D::4722332999125531052::1661204925::1677994884::1::::<><>::
-::res://Assets/Kicking Creature/costume 0/Up Air/::1677991737
-kickingcreatureuairHITBOX_strip12.png::CompressedTexture2D::3696874837247023836::1661279669::1677994884::1::::<><>::
-kickingcreatureuairHURTBOX_strip12.png::CompressedTexture2D::8268738856053335910::1661286368::1677994884::1::::<><>::
-kickingcreatureuair_strip12.png::CompressedTexture2D::927347712922545852::1661216953::1677994884::1::::<><>::
-::res://Assets/Kicking Creature/costume 0/Up Smash/::1677991737
-kickingcreatureupsmashHITBOX_strip16.png::CompressedTexture2D::5769760489425286750::1677727973::1677994884::1::::<><>::
-kickingcreatureupsmashHURTBOX_strip16.png::CompressedTexture2D::631657565428217819::1677727056::1677994884::1::::<><>::
-kickingcreatureupsmash_strip16.png::CompressedTexture2D::8621898077425923984::1677727019::1677994884::1::::<><>::
-::res://Assets/Kicking Creature/costume 0/Up Smash/Old/::1677991737
-kickingcreatureusmashHITBOX_strip19.png::CompressedTexture2D::7392209433776151839::1661481700::1677994884::1::::<><>::
-kickingcreatureusmashHURTBOX_strip19.png::CompressedTexture2D::2080022715774389366::1661481664::1677994884::1::::<><>::
-kickingcreatureusmash_strip19.png::CompressedTexture2D::2385626490054686489::1661481630::1677994884::1::::<><>::
-::res://Assets/Kicking Creature/costume 1/::1677991737
-::res://Assets/Kicking Creature/costume 1/Forward Smash/::1677991737
-kickingcreaturefsmash1_strip10.png::CompressedTexture2D::5974719979246358825::1664039153::1677994884::1::::<><>::
-::res://Assets/Kicking Creature/costume 1/Idle/::1677991737
-kickingcreatureidle1_strip4.png::CompressedTexture2D::4763737417296125110::1664037776::1677994884::1::::<><>::
-::res://Assets/Michael Jackson/::1677991737
-MichaelJacksonPortrait.png::CompressedTexture2D::8135905018092943691::1663719269::1677994884::1::::<><>::
-MichaelJacksonStockIcon.png::CompressedTexture2D::6540490743517109896::1670902569::1677994884::1::::<><>::
-::res://Assets/Michael Jackson/Aerials/::1677991737
-::res://Assets/Michael Jackson/Aerials/Back Air/::1677991737
-michaeljacksonbackairHITBOX_strip2.png::CompressedTexture2D::5812595341712893334::1665011507::1677994884::1::::<><>::
-michaeljacksonbackairHURTBOX_strip2.png::CompressedTexture2D::5531169046196737045::1665011477::1677994884::1::::<><>::
-michaeljacksonbackair_strip2.png::CompressedTexture2D::7951360609727377595::1665011341::1677994884::1::::<><>::
-::res://Assets/Michael Jackson/Aerials/Down Air/::1677991737
-michaeljacksondownairHITBOX_strip9.png::CompressedTexture2D::8212518411425791925::1670462433::1677994884::1::::<><>::
-michaeljacksondownairHURTBOX_strip9.png::CompressedTexture2D::8345745144489597167::1670462408::1677994884::1::::<><>::
-michaeljacksondownair_strip9.png::CompressedTexture2D::7058677588840803823::1670462388::1677994884::1::::<><>::
-::res://Assets/Michael Jackson/Aerials/Forward Air/::1677991737
-michaeljacksonfairHITBOX_strip7.png::CompressedTexture2D::6456085604532400789::1670448433::1677994884::1::::<><>::
-michaeljacksonfairHITBOX_strip10.png::CompressedTexture2D::8526998180310334086::1670449205::1677994884::1::::<><>::
-michaeljacksonfairHURTBOX_strip7.png::CompressedTexture2D::2129250620399154836::1670448406::1677994884::1::::<><>::
-michaeljacksonfairHURTBOX_strip10.png::CompressedTexture2D::6671059036569233350::1670449184::1677994884::1::::<><>::
-michaeljacksonfair_strip7.png::CompressedTexture2D::716405704833504959::1670448377::1677994884::1::::<><>::
-michaeljacksonfair_strip10.png::CompressedTexture2D::7403188349519266768::1670449164::1677994884::1::::<><>::
-::res://Assets/Michael Jackson/Aerials/Forward Air/Old/::1677991737
-michaeljacksonfair.png::CompressedTexture2D::8939164082972288576::1661801772::1677994884::1::::<><>::
-michaeljacksonfairHITBOX.png::CompressedTexture2D::2753661848276606991::1661801813::1677994884::1::::<><>::
-michaeljacksonfairHITBOX_strip2.png::CompressedTexture2D::6604202391073372451::1664646272::1677994884::1::::<><>::
-michaeljacksonfairHURTBOX.png::CompressedTexture2D::7652531708055250522::1661801792::1677994884::1::::<><>::
-michaeljacksonfairHURTBOX_strip2.png::CompressedTexture2D::4435616015825612003::1664646230::1677994884::1::::<><>::
-michaeljacksonfair_strip2.png::CompressedTexture2D::3440610459222931019::1664646185::1677994884::1::::<><>::
-::res://Assets/Michael Jackson/Aerials/Neutral Air/::1677991737
-michaeljacksonnairHITBOX_strip8.png::CompressedTexture2D::7390514743698056779::1664849505::1677994884::1::::<><>::
-michaeljacksonnairHURTBOX_strip8.png::CompressedTexture2D::7564842026616485333::1664849477::1677994884::1::::<><>::
-michaeljacksonnair_strip8.png::CompressedTexture2D::7514930790803679587::1664849441::1677994884::1::::<><>::
-::res://Assets/Michael Jackson/Aerials/Up Air/::1677991737
-michaeljacksonuairHITBOX_strip2.png::CompressedTexture2D::1017577729813414713::1664681102::1677994884::1::::<><>::
-michaeljacksonuairHURTBOX_strip2.png::CompressedTexture2D::7285334528271331402::1664681073::1677994884::1::::<><>::
-michaeljacksonuair_strip2.png::CompressedTexture2D::1696990390255740191::1664681056::1677994884::1::::<><>::
-::res://Assets/Michael Jackson/Other/::1677991737
-::res://Assets/Michael Jackson/Other/Hit Stun/::1677991737
-michaeljacksonhitstun.png::CompressedTexture2D::5700934973285838719::1663998167::1677994884::1::::<><>::
-michaeljacksonhitstunHURTBOX.png::CompressedTexture2D::9158119970135106260::1670639823::1677994884::1::::<><>::
-::res://Assets/Michael Jackson/Other/Idle/::1677991737
-michaeljacksonidle.png::CompressedTexture2D::1448899430349837551::1670383985::1677994884::1::::<><>::
-michaeljacksonidleHURTBOX.png::CompressedTexture2D::8615488497624526665::1670384053::1677994884::1::::<><>::
-::res://Assets/Michael Jackson/Other/Jump/::1677991737
-michaeljacksonjump.png::CompressedTexture2D::5427851362597917218::1665184502::1677994884::1::::<><>::
-michaeljacksonjumpHURTBOX.png::CompressedTexture2D::2827769774823477044::1665184525::1677994884::1::::<><>::
-::res://Assets/Michael Jackson/Other/Walk/::1677991737
-michaeljacksonwalkHURTBOX_strip7.png::CompressedTexture2D::6418230761994241355::1661802643::1677994884::1::::<><>::
-michaeljacksonwalk_strip7.png::CompressedTexture2D::2602384646300042625::1661802618::1677994884::1::::<><>::
-::res://Assets/Michael Jackson/Smash Attacks/::1677991737
-::res://Assets/Michael Jackson/Smash Attacks/Down Smash/::1677991737
-michaeljacksondownsmashHITBOX_strip4.png::CompressedTexture2D::1654175041820891311::1665183266::1677994884::1::::<><>::
-michaeljacksondownsmashHURTBOX_strip4.png::CompressedTexture2D::7457862811879236961::1665183247::1677994884::1::::<><>::
-michaeljacksondownsmash_strip4.png::CompressedTexture2D::6844886383067190513::1665183217::1677994884::1::::<><>::
-::res://Assets/Michael Jackson/Smash Attacks/Forward Smash/::1677991737
-michaeljacksonforwardsmashHITBOX_strip9.png::CompressedTexture2D::308500037724687647::1665182014::1677994884::1::::<><>::
-michaeljacksonforwardsmashHURTBOX_strip9.png::CompressedTexture2D::4139283202808021812::1665007153::1677994884::1::::<><>::
-michaeljacksonforwardsmash_strip9.png::CompressedTexture2D::8825031623743323392::1665007120::1677994884::1::::<><>::
-::res://Assets/Michael Jackson/Smash Attacks/Neutral Smash/::1677991737
-michaeljacksonneutralsmashHITBOX_strip5.png::CompressedTexture2D::1064151534833216467::1665180798::1677994884::1::::<><>::
-michaeljacksonneutralsmashHURTBOX_strip5.png::CompressedTexture2D::1543592743643590474::1665180761::1677994884::1::::<><>::
-michaeljacksonneutralsmash_strip5.png::CompressedTexture2D::800675290978579872::1665180725::1677994884::1::::<><>::
-::res://Assets/Michael Jackson/Smash Attacks/Up Smash/::1677991737
-michaeljacksonusmashHITBOX_strip3.png::CompressedTexture2D::7435513244055451777::1664647646::1677994884::1::::<><>::
-michaeljacksonusmashHURTBOX_strip3.png::CompressedTexture2D::6156764662771233758::1664647621::1677994884::1::::<><>::
-michaeljacksonusmash_strip3.png::CompressedTexture2D::6047697225983327312::1664647580::1677994884::1::::<><>::
-::res://Assets/Michael Jackson/Specials/::1677991737
-::res://Assets/Michael Jackson/Specials/Side Special/::1677991737
-michaeljacksonsideSpecialHITBOX_strip8.png::CompressedTexture2D::2430913866740057517::1669777576::1677994884::1::::<><>::
-michaeljacksonsideSpecialHITBOX_strip16.png::CompressedTexture2D::7796667756268624822::1663995249::1677994884::1::::<><>::
-michaeljacksonsideSpecialHURTBOX_strip8.png::CompressedTexture2D::1493890105632066653::1664316556::1677994884::1::::<><>::
-michaeljacksonsideSpecialHURTBOX_strip16.png::CompressedTexture2D::6887601518172298649::1663995265::1677994884::1::::<><>::
-michaeljacksonsideSpecial_strip8.png::CompressedTexture2D::5069915963920150569::1664316527::1677994884::1::::<><>::
-michaeljacksonsideSpecial_strip16.png::CompressedTexture2D::136018837837203413::1663993239::1677994884::1::::<><>::
-::res://Assets/Michael Jackson/Specials/Up Special/::1677991737
-michaeljacksonupspecialHITBOX_strip12.png::CompressedTexture2D::1385831278227379823::1665019144::1677994884::1::::<><>::
-michaeljacksonupspecialHURTBOX_strip12.png::CompressedTexture2D::5135139440467720928::1665019076::1677994884::1::::<><>::
-michaeljacksonupspecial_strip12.png::CompressedTexture2D::7200830710947087744::1665019024::1677994884::1::::<><>::
-::res://Assets/SFX/::1677991962
-!whiff1.wav::AudioStreamWAV::6334754999839778063::1292254318::1677994884::1::::<><>::
-!whiff.wav::AudioStreamWAV::5370250978414711665::1292254318::1677994884::1::::<><>::
-main2b.dsp.wav::AudioStreamWAV::1323633001126978748::1292254318::1677994884::1::::<><>::
-main2c.dsp.wav::AudioStreamWAV::1921324141854020258::1292254318::1677994884::1::::<><>::
-main2d.dsp.wav::AudioStreamWAV::7794844397740396452::1292254318::1677994884::1::::<><>::
-main2e.dsp.wav::AudioStreamWAV::170322404935816392::1292254318::1677994884::1::::<><>::
-main2f.dsp.wav::AudioStreamWAV::6113412438969062499::1292254318::1677994884::1::::<><>::
-main6a.dsp.wav::AudioStreamWAV::7920890644778122972::1292254318::1677994884::1::::<><>::
-main6bL.dsp.wav::AudioStreamWAV::1856890589178780204::1292254318::1677994884::1::::<><>::
-main30.dsp.wav::AudioStreamWAV::1214023359496914248::1292254318::1677994884::1::::<><>::
-main36L.dsp.wav::AudioStreamWAV::6713331311940025187::1292254318::1677994884::1::::<><>::
-main36R.dsp.wav::AudioStreamWAV::721860825254391913::1292254318::1677994884::1::::<><>::
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1692430059
+default_env.tres::Environment::8528537994461198101::1677998613::0::1::::<><>::
+icon.png::CompressedTexture2D::2493594762123420279::1677991569::1677994614::1::::<><>::
+Node2D.tscn::PackedScene::4909208585091919378::1677998613::0::1::::<><>::
+::res://Assets/::1677998484
+100203.png::CompressedTexture2D::4176763301481265274::1670388389::1677998484::1::::<><>::
+epic_background_bottom1.png::CompressedTexture2D::2159373984631921704::1664756103::1677998484::1::::<><>::
+epic_background_top.png::CompressedTexture2D::3531636669501044970::1664680037::1677998484::1::::<><>::
+player1_cursor.png::CompressedTexture2D::7572456019607324800::1665278672::1677998484::1::::<><>::
+player2_cursor.png::CompressedTexture2D::8984839177797687706::1665278654::1677998484::1::::<><>::
+testdummy.png::CompressedTexture2D::6998565971133444963::1661275587::1677998484::1::::<><>::
+whitebg.png::CompressedTexture2D::2841278061398086417::1660697603::1677998484::1::::<><>::
+::res://Assets/Heroin/::1677998484
+HeroinPortrait.png::CompressedTexture2D::8662627125101035551::1663893365::1677998484::1::::<><>::
+::res://Assets/Heroin/Aerials/::1670633659
+::res://Assets/Heroin/Other/::1670633669
+::res://Assets/Heroin/Smash Attacks/::1670633664
+::res://Assets/Heroin/Specials/::1670633675
+::res://Assets/Kicking Creature/::1677998484
+KickingCreaturePortrait.png::CompressedTexture2D::8472607298345284612::1663643301::1677998484::1::::<><>::
+KickingCreatureStockIcon.png::CompressedTexture2D::8043583915563850011::1670904723::1677998484::1::::<><>::
+Portrait.png::CompressedTexture2D::2203237224371569388::1661494597::1677998484::1::::<><>::
+::res://Assets/Kicking Creature/costume 0/::1677995337
+::res://Assets/Kicking Creature/costume 0/Back Air/::1677998484
+kickingcreaturebackairHITBOX_strip15.png::CompressedTexture2D::1627709518543532288::1669953307::1677998484::1::::<><>::
+kickingcreaturebackairHURTBOX_strip15.png::CompressedTexture2D::6470089620641651291::1669953277::1677998484::1::::<><>::
+kickingcreaturebackair_strip15.png::CompressedTexture2D::3633110237144196112::1669953174::1677998484::1::::<><>::
+::res://Assets/Kicking Creature/costume 0/Down Air/::1677998484
+kickingcreaturedairHITBOX_strip11.png::CompressedTexture2D::748164620250273834::1661283356::1677998484::1::::<><>::
+kickingcreaturedair_strip11.png::CompressedTexture2D::1712335562717570360::1661226883::1677998484::1::::<><>::
+::res://Assets/Kicking Creature/costume 0/Down Smash/::1677998484
+kickingcreaturedsmashHITBOX_strip16.png::CompressedTexture2D::2486624738836709301::1661474802::1677998484::1::::<><>::
+kickingcreaturedsmashHURTBOX_strip16.png::CompressedTexture2D::6334012449067278127::1661474744::1677998484::1::::<><>::
+kickingcreaturedsmash_strip16.png::CompressedTexture2D::3069013390027453211::1661474710::1677998484::1::::<><>::
+::res://Assets/Kicking Creature/costume 0/Forward Air/::1677998484
+kickingcreatureforwardairHITBOX_strip16.png::CompressedTexture2D::6765572296071934875::1670016474::1677998484::1::::<><>::
+kickingcreatureforwardairHURTBOX_strip16.png::CompressedTexture2D::5402310296500431827::1670016456::1677998484::1::::<><>::
+kickingcreatureforwardair_strip16.png::CompressedTexture2D::2025207545077145211::1670016439::1677998484::1::::<><>::
+::res://Assets/Kicking Creature/costume 0/Forward Smash/::1677998484
+kickingcreaturefsmashHITBOX_strip10.png::CompressedTexture2D::8206883340825451946::1661275383::1677998484::1::::<><>::
+kickingcreaturefsmashHURTBOX_strip10.png::CompressedTexture2D::1069044609064441835::1661316143::1677998484::1::::<><>::
+kickingcreaturefsmash_strip10.png::CompressedTexture2D::4764829463069393932::1660685671::1677998484::1::::<><>::
+::res://Assets/Kicking Creature/costume 0/Grab/::1677995336
+::res://Assets/Kicking Creature/costume 0/Hit Stun/::1677998484
+kickingcreaturehitstun.png::CompressedTexture2D::168550297208492489::1661487451::1677998484::1::::<><>::
+kickingcreaturehitstun_HURTBOX.png::CompressedTexture2D::9093402010366175175::1661487508::1677998484::1::::<><>::
+::res://Assets/Kicking Creature/costume 0/Idle/::1677998484
+kickingcreatureidleHURTBOX_strip4.png::CompressedTexture2D::1565354110281961599::1670976557::1677998484::1::::<><>::
+kickingcreatureidle_strip4.png::CompressedTexture2D::3599869760550775084::1670976539::1677998484::1::::<><>::
+::res://Assets/Kicking Creature/costume 0/Ledge Grab/::1677995337
+::res://Assets/Kicking Creature/costume 0/Neutral Air/::1677998484
+kickingcreaturenairHITBOX_strip16.png::CompressedTexture2D::4567900601395307669::1664000280::1677998484::1::::<><>::
+kickingcreaturenairHURTBOX_strip16.png::CompressedTexture2D::1457665229654742981::1664000234::1677998484::1::::<><>::
+kickingcreaturenair_strip16.png::CompressedTexture2D::8048329271701716604::1664000192::1677998484::1::::<><>::
+::res://Assets/Kicking Creature/costume 0/Neutral Smash/::1677998484
+kickingcreaturensmashHITBOX_strip9.png::CompressedTexture2D::5327883949580558150::1661282146::1677998484::1::::<><>::
+kickingcreaturensmashHURTBOX_strip9.png::CompressedTexture2D::7611841958575805622::1661287933::1677998484::1::::<><>::
+kickingcreaturensmash_strip9.png::CompressedTexture2D::797395455205145331::1661210055::1677998484::1::::<><>::
+::res://Assets/Kicking Creature/costume 0/Old/::1677995337
+::res://Assets/Kicking Creature/costume 0/Old/Back Air/::1677998484
+kickingcreaturebairHITBOX_strip9.png::CompressedTexture2D::2418956988395734182::1661283179::1677998484::1::::<><>::
+kickingcreaturebairHURTBOX_strip9.png::CompressedTexture2D::2153216540320958570::1661286615::1677998484::1::::<><>::
+kickingcreaturebair_strip9.png::CompressedTexture2D::506620152030881516::1661200936::1677998484::1::::<><>::
+::res://Assets/Kicking Creature/costume 0/Old/Forward Air/::1677998484
+kickingcreaturefairHITBOX_strip11.png::CompressedTexture2D::7412559831954860696::1661280643::1677998484::1::::<><>::
+kickingcreaturefair_strip11.png::CompressedTexture2D::4722332999125531052::1661208525::1677998484::1::::<><>::
+::res://Assets/Kicking Creature/costume 0/Up Air/::1677998484
+kickingcreatureuairHITBOX_strip12.png::CompressedTexture2D::3696874837247023836::1661283269::1677998484::1::::<><>::
+kickingcreatureuairHURTBOX_strip12.png::CompressedTexture2D::8268738856053335910::1661289968::1677998484::1::::<><>::
+kickingcreatureuair_strip12.png::CompressedTexture2D::927347712922545852::1661220553::1677998484::1::::<><>::
+::res://Assets/Kicking Creature/costume 0/Up Smash/::1677998484
+kickingcreatureupsmashHITBOX_strip16.png::CompressedTexture2D::5769760489425286750::1677731573::1677998484::1::::<><>::
+kickingcreatureupsmashHURTBOX_strip16.png::CompressedTexture2D::631657565428217819::1677730656::1677998484::1::::<><>::
+kickingcreatureupsmash_strip16.png::CompressedTexture2D::8621898077425923984::1677730619::1677998484::1::::<><>::
+::res://Assets/Kicking Creature/costume 0/Up Smash/Old/::1677998484
+kickingcreatureusmashHITBOX_strip19.png::CompressedTexture2D::7392209433776151839::1661485300::1677998484::1::::<><>::
+kickingcreatureusmashHURTBOX_strip19.png::CompressedTexture2D::2080022715774389366::1661485264::1677998484::1::::<><>::
+kickingcreatureusmash_strip19.png::CompressedTexture2D::2385626490054686489::1661485230::1677998484::1::::<><>::
+::res://Assets/Kicking Creature/costume 1/::1677995337
+::res://Assets/Kicking Creature/costume 1/Forward Smash/::1677998484
+kickingcreaturefsmash1_strip10.png::CompressedTexture2D::5974719979246358825::1664042753::1677998484::1::::<><>::
+::res://Assets/Kicking Creature/costume 1/Idle/::1677998484
+kickingcreatureidle1_strip4.png::CompressedTexture2D::4763737417296125110::1664041376::1677998484::1::::<><>::
+::res://Assets/Michael Jackson/::1677998484
+MichaelJacksonPortrait.png::CompressedTexture2D::8135905018092943691::1663722869::1677998484::1::::<><>::
+MichaelJacksonStockIcon.png::CompressedTexture2D::6540490743517109896::1670906169::1677998484::1::::<><>::
+::res://Assets/Michael Jackson/Aerials/::1677995337
+::res://Assets/Michael Jackson/Aerials/Back Air/::1677998484
+michaeljacksonbackairHITBOX_strip2.png::CompressedTexture2D::5812595341712893334::1665015107::1677998484::1::::<><>::
+michaeljacksonbackairHURTBOX_strip2.png::CompressedTexture2D::5531169046196737045::1665015077::1677998484::1::::<><>::
+michaeljacksonbackair_strip2.png::CompressedTexture2D::7951360609727377595::1665014941::1677998484::1::::<><>::
+::res://Assets/Michael Jackson/Aerials/Down Air/::1677998484
+michaeljacksondownairHITBOX_strip9.png::CompressedTexture2D::8212518411425791925::1670466033::1677998484::1::::<><>::
+michaeljacksondownairHURTBOX_strip9.png::CompressedTexture2D::8345745144489597167::1670466008::1677998484::1::::<><>::
+michaeljacksondownair_strip9.png::CompressedTexture2D::7058677588840803823::1670465988::1677998484::1::::<><>::
+::res://Assets/Michael Jackson/Aerials/Forward Air/::1677998484
+michaeljacksonfairHITBOX_strip7.png::CompressedTexture2D::6456085604532400789::1670452033::1677998484::1::::<><>::
+michaeljacksonfairHITBOX_strip10.png::CompressedTexture2D::8526998180310334086::1670452805::1677998484::1::::<><>::
+michaeljacksonfairHURTBOX_strip7.png::CompressedTexture2D::2129250620399154836::1670452006::1677998484::1::::<><>::
+michaeljacksonfairHURTBOX_strip10.png::CompressedTexture2D::6671059036569233350::1670452784::1677998484::1::::<><>::
+michaeljacksonfair_strip7.png::CompressedTexture2D::716405704833504959::1670451977::1677998484::1::::<><>::
+michaeljacksonfair_strip10.png::CompressedTexture2D::7403188349519266768::1670452764::1677998484::1::::<><>::
+::res://Assets/Michael Jackson/Aerials/Forward Air/Old/::1677998484
+michaeljacksonfair.png::CompressedTexture2D::8939164082972288576::1661805372::1677998484::1::::<><>::
+michaeljacksonfairHITBOX.png::CompressedTexture2D::2753661848276606991::1661805413::1677998484::1::::<><>::
+michaeljacksonfairHITBOX_strip2.png::CompressedTexture2D::6604202391073372451::1664649872::1677998484::1::::<><>::
+michaeljacksonfairHURTBOX.png::CompressedTexture2D::7652531708055250522::1661805392::1677998484::1::::<><>::
+michaeljacksonfairHURTBOX_strip2.png::CompressedTexture2D::4435616015825612003::1664649830::1677998484::1::::<><>::
+michaeljacksonfair_strip2.png::CompressedTexture2D::3440610459222931019::1664649785::1677998484::1::::<><>::
+::res://Assets/Michael Jackson/Aerials/Neutral Air/::1677998484
+michaeljacksonnairHITBOX_strip8.png::CompressedTexture2D::7390514743698056779::1664853105::1677998484::1::::<><>::
+michaeljacksonnairHURTBOX_strip8.png::CompressedTexture2D::7564842026616485333::1664853077::1677998484::1::::<><>::
+michaeljacksonnair_strip8.png::CompressedTexture2D::7514930790803679587::1664853041::1677998484::1::::<><>::
+::res://Assets/Michael Jackson/Aerials/Up Air/::1677998484
+michaeljacksonuairHITBOX_strip2.png::CompressedTexture2D::1017577729813414713::1664684702::1677998484::1::::<><>::
+michaeljacksonuairHURTBOX_strip2.png::CompressedTexture2D::7285334528271331402::1664684673::1677998484::1::::<><>::
+michaeljacksonuair_strip2.png::CompressedTexture2D::1696990390255740191::1664684656::1677998484::1::::<><>::
+::res://Assets/Michael Jackson/Other/::1677995337
+::res://Assets/Michael Jackson/Other/Hit Stun/::1677998484
+michaeljacksonhitstun.png::CompressedTexture2D::5700934973285838719::1664001767::1677998484::1::::<><>::
+michaeljacksonhitstunHURTBOX.png::CompressedTexture2D::9158119970135106260::1670643423::1677998484::1::::<><>::
+::res://Assets/Michael Jackson/Other/Idle/::1677998484
+michaeljacksonidle.png::CompressedTexture2D::1448899430349837551::1670387585::1677998484::1::::<><>::
+michaeljacksonidleHURTBOX.png::CompressedTexture2D::8615488497624526665::1670387653::1677998484::1::::<><>::
+::res://Assets/Michael Jackson/Other/Jump/::1677998484
+michaeljacksonjump.png::CompressedTexture2D::5427851362597917218::1665188102::1677998484::1::::<><>::
+michaeljacksonjumpHURTBOX.png::CompressedTexture2D::2827769774823477044::1665188125::1677998484::1::::<><>::
+::res://Assets/Michael Jackson/Other/Walk/::1677998484
+michaeljacksonwalkHURTBOX_strip7.png::CompressedTexture2D::6418230761994241355::1661806243::1677998484::1::::<><>::
+michaeljacksonwalk_strip7.png::CompressedTexture2D::2602384646300042625::1661806218::1677998484::1::::<><>::
+::res://Assets/Michael Jackson/Smash Attacks/::1677995337
+::res://Assets/Michael Jackson/Smash Attacks/Down Smash/::1677998484
+michaeljacksondownsmashHITBOX_strip4.png::CompressedTexture2D::1654175041820891311::1665186866::1677998484::1::::<><>::
+michaeljacksondownsmashHURTBOX_strip4.png::CompressedTexture2D::7457862811879236961::1665186847::1677998484::1::::<><>::
+michaeljacksondownsmash_strip4.png::CompressedTexture2D::6844886383067190513::1665186817::1677998484::1::::<><>::
+::res://Assets/Michael Jackson/Smash Attacks/Forward Smash/::1677998484
+michaeljacksonforwardsmashHITBOX_strip9.png::CompressedTexture2D::308500037724687647::1665185614::1677998484::1::::<><>::
+michaeljacksonforwardsmashHURTBOX_strip9.png::CompressedTexture2D::4139283202808021812::1665010753::1677998484::1::::<><>::
+michaeljacksonforwardsmash_strip9.png::CompressedTexture2D::8825031623743323392::1665010720::1677998484::1::::<><>::
+::res://Assets/Michael Jackson/Smash Attacks/Neutral Smash/::1677998484
+michaeljacksonneutralsmashHITBOX_strip5.png::CompressedTexture2D::1064151534833216467::1665184398::1677998484::1::::<><>::
+michaeljacksonneutralsmashHURTBOX_strip5.png::CompressedTexture2D::1543592743643590474::1665184361::1677998484::1::::<><>::
+michaeljacksonneutralsmash_strip5.png::CompressedTexture2D::800675290978579872::1665184325::1677998484::1::::<><>::
+::res://Assets/Michael Jackson/Smash Attacks/Up Smash/::1677998484
+michaeljacksonusmashHITBOX_strip3.png::CompressedTexture2D::7435513244055451777::1664651246::1677998484::1::::<><>::
+michaeljacksonusmashHURTBOX_strip3.png::CompressedTexture2D::6156764662771233758::1664651221::1677998484::1::::<><>::
+michaeljacksonusmash_strip3.png::CompressedTexture2D::6047697225983327312::1664651180::1677998484::1::::<><>::
+::res://Assets/Michael Jackson/Specials/::1677995337
+::res://Assets/Michael Jackson/Specials/Side Special/::1677998484
+michaeljacksonsideSpecialHITBOX_strip8.png::CompressedTexture2D::2430913866740057517::1669781176::1677998484::1::::<><>::
+michaeljacksonsideSpecialHITBOX_strip16.png::CompressedTexture2D::7796667756268624822::1663998849::1677998484::1::::<><>::
+michaeljacksonsideSpecialHURTBOX_strip8.png::CompressedTexture2D::1493890105632066653::1664320156::1677998484::1::::<><>::
+michaeljacksonsideSpecialHURTBOX_strip16.png::CompressedTexture2D::6887601518172298649::1663998865::1677998484::1::::<><>::
+michaeljacksonsideSpecial_strip8.png::CompressedTexture2D::5069915963920150569::1664320127::1677998484::1::::<><>::
+michaeljacksonsideSpecial_strip16.png::CompressedTexture2D::136018837837203413::1663996839::1677998484::1::::<><>::
+::res://Assets/Michael Jackson/Specials/Up Special/::1677998484
+michaeljacksonupspecialHITBOX_strip12.png::CompressedTexture2D::1385831278227379823::1665022744::1677998484::1::::<><>::
+michaeljacksonupspecialHURTBOX_strip12.png::CompressedTexture2D::5135139440467720928::1665022676::1677998484::1::::<><>::
+michaeljacksonupspecial_strip12.png::CompressedTexture2D::7200830710947087744::1665022624::1677998484::1::::<><>::
+::res://Assets/SFX/::1677998484
+!whiff1.wav::AudioStreamWAV::6334754999839778063::1292257918::1677998484::1::::<><>::
+!whiff.wav::AudioStreamWAV::5370250978414711665::1292257918::1677998484::1::::<><>::
+main2b.dsp.wav::AudioStreamWAV::1323633001126978748::1292257918::1677998484::1::::<><>::
+main2c.dsp.wav::AudioStreamWAV::1921324141854020258::1292257918::1677998484::1::::<><>::
+main2d.dsp.wav::AudioStreamWAV::7794844397740396452::1292257918::1677998484::1::::<><>::
+main2e.dsp.wav::AudioStreamWAV::170322404935816392::1292257918::1677998484::1::::<><>::
+main2f.dsp.wav::AudioStreamWAV::6113412438969062499::1292257918::1677998484::1::::<><>::
+main6a.dsp.wav::AudioStreamWAV::7920890644778122972::1292257918::1677998484::1::::<><>::
+main6bL.dsp.wav::AudioStreamWAV::1856890589178780204::1292257918::1677998484::1::::<><>::
+main30.dsp.wav::AudioStreamWAV::1214023359496914248::1292257918::1677998484::1::::<><>::
+main36L.dsp.wav::AudioStreamWAV::6713331311940025187::1292257918::1677998484::1::::<><>::
+main36R.dsp.wav::AudioStreamWAV::721860825254391913::1292257918::1677998484::1::::<><>::
