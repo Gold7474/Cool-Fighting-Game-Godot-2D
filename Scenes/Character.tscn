@@ -78,7 +78,7 @@ _data = {
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_mwqp5"]
 radius = 7.0
-height = 19.5646
+height = 19.6
 
 [sub_resource type="GDScript" id="GDScript_g6e16"]
 script/source = "extends CollisionPolygon2D
@@ -96,9 +96,15 @@ func _process(delta):
 
 [node name="Character" type="CharacterBody2D"]
 script = ExtResource("1_e2oh1")
-ACCELERATION = 30
+SPEED = 450.0
+GROUNDED_JUMP_VELOCITY = -700.0
+SHORT_HOP_VELOCITY = -500
+AERIAL_JUMP_VELOCITY = -600.0
+ACCELERATION = 100
 FRICTION = 15
 AIR_FRICTION = 3
+FALL_SPEED = 900
+FAST_FALL_SPEED = 2000
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 texture_filter = 1
