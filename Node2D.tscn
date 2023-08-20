@@ -1,12 +1,21 @@
-[gd_scene load_steps=3 format=3 uid="uid://cb7b7icf2jxmg"]
+[gd_scene load_steps=4 format=3 uid="uid://cb7b7icf2jxmg"]
 
 [ext_resource type="PackedScene" uid="uid://bm6nbecpbuo36" path="res://Scenes/Character.tscn" id="2_c0prh"]
 [ext_resource type="PackedScene" uid="uid://cgehnukwi7scy" path="res://Scenes/TestPlatform.tscn" id="2_cjn8j"]
+[ext_resource type="Script" path="res://Scripts/CameraController.gd" id="3_a41ad"]
 
 [node name="Node2D" type="Node2D"]
 
 [node name="Character" parent="." instance=ExtResource("2_c0prh")]
 position = Vector2(244, 467)
+scale = Vector2(3.88, 3.88)
+GROUNDED_JUMP_VELOCITY = -850.0
+AERIAL_JUMP_VELOCITY = -800.0
+ACCELERATION = 40
+FALL_SPEED = 800
+
+[node name="Character2" parent="." instance=ExtResource("2_c0prh")]
+position = Vector2(791, 464)
 scale = Vector2(3.88, 3.88)
 GROUNDED_JUMP_VELOCITY = -850.0
 AERIAL_JUMP_VELOCITY = -800.0
@@ -24,3 +33,8 @@ scale = Vector2(-276.752, 32.289)
 [node name="TestPlatform3" parent="." instance=ExtResource("2_cjn8j")]
 position = Vector2(592, 179)
 scale = Vector2(-276.752, 32.289)
+
+[node name="Camera2D" type="Camera2D" parent="." node_paths=PackedStringArray("PLAYER1", "PLAYER2")]
+script = ExtResource("3_a41ad")
+PLAYER1 = NodePath("../Character")
+PLAYER2 = NodePath("../Character2")

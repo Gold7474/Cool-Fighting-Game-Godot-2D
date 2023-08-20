@@ -1,8 +1,8 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1692439097
-default_env.tres::Environment::8528537994461198101::1692439097::0::1::::<><>::
+::res://::1692498975
+default_env.tres::Environment::8528537994461198101::1692498975::0::1::::<><>::
 icon.png::CompressedTexture2D::7586100478734415762::1677991569::1692430832::1::::<><>::
-Node2D.tscn::PackedScene::4909208585091919378::1692439097::0::1::::<><>::uid://bm6nbecpbuo36::::res://Scenes/Character.tscn<>uid://cgehnukwi7scy::::res://Scenes/TestPlatform.tscn
+Node2D.tscn::PackedScene::4909208585091919378::1692498975::0::1::::<><>::uid://bm6nbecpbuo36::::res://Scenes/Character.tscn<>uid://cgehnukwi7scy::::res://Scenes/TestPlatform.tscn
 ::res://addons/::1692430832
 ::res://addons/AsepriteWizard/::1692430832
 plugin.cfg::TextFile::-1::1692430832::0::1::::<><>::
@@ -167,13 +167,18 @@ main6bL.dsp.wav::AudioStreamWAV::1856890589178780204::1292257918::1677998484::1:
 main30.dsp.wav::AudioStreamWAV::1214023359496914248::1292257918::1677998484::1::::<><>::
 main36L.dsp.wav::AudioStreamWAV::6713331311940025187::1292257918::1677998484::1::::<><>::
 main36R.dsp.wav::AudioStreamWAV::721860825254391913::1292257918::1677998484::1::::<><>::
-::res://Scenes/::1692439097
+::res://Scenes/::1692498975
 Body.png::CompressedTexture2D::2315744620962367082::1692430832::1692438813::1::::<><>::
-Character.tscn::PackedScene::3293473838291891999::1692439097::0::1::::<><>::res://Scripts/CharacterController.gd<>uid://7808f057qq6m::::res://Scenes/Body.png
+Character.tscn::PackedScene::3293473838291891999::1692498975::0::1::::<><>::res://Scripts/CharacterController.gd<>uid://7808f057qq6m::::res://Scenes/Body.png<>uid://cjda0vhcewoeh::::res://Assets/Kicking Creature/costume 0/Turn Around/right_to_left.png<>uid://c52ghxtki1ydw::::res://Assets/Kicking Creature/costume 0/Turn Around/left_to_right.png
 kickingcreatureidle.png::CompressedTexture2D::8553136690335894484::1692430832::1692438813::1::::<><>::
-TestPlatform.tscn::PackedScene::5202681241427360100::1692439096::0::1::::<><>::
-::res://Scripts/::1692438872
-CharacterController.gd::GDScript::-1::1692438872::0::1::::<>CharacterBody2D<>::
+TestPlatform.tscn::PackedScene::5202681241427360100::1692498975::0::1::::<><>::
+::res://Scripts/::1692499410
+Camera Controller.gd::GDScript::-1::1692499410::0::1::::<>Camera2D<>::
+CharacterController.gd::GDScript::-1::1692442472::0::1::::<>CharacterBody2D<>::
+Test.gd::GDScript::-1::1692430832::0::1::::<>Node<>::
+::res://scripts/::1692499410
+Camera Controller.gd::GDScript::-1::1692499410::0::1::::<>Camera2D<>::
+CharacterController.gd::GDScript::-1::1692442472::0::1::::<>CharacterBody2D<>::
 Test.gd::GDScript::-1::1692430832::0::1::::<>Node<>::
 ::res://Sprites/::1692430832
 ::res://Sprites/Characters/::1692430832

@@ -12,7 +12,7 @@ extends CharacterBody2D
 @export var FALL_SPEED = 200
 @export var FAST_FALL_SPEED = 400
 @export var JUMP_SQUAT = 4
-@export var TURN_TIME = 3
+@export var TURN_TIME = 2
 
 var movement_velocity = Vector2(0, 0)
 var current_aerial_jumps = 0
