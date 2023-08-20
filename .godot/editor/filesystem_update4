@@ -1,5 +1,2 @@
 res://default_env.tres
-res://Scenes/TestPlatform.tscn
-res://Scripts/CharacterController.gd
-res://Scenes/Character.tscn
 res://Node2D.tscn
