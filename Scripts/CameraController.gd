@@ -5,6 +5,7 @@ extends Camera2D
 
 @export var x_margin = 200
 @export var y_margin = 200
+@export var min_zoom = 2
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
@@ -13,10 +14,10 @@ func _ready():
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta):
-	var mid_point = (PLAYER1.position + PLAYER2.position) / 2
+	var mid_point = (PLAYER1.global_position + PLAYER2.global_position) / 2
 	position = mid_point
 	
 	var x_dist = abs(PLAYER1.global_position.x - PLAYER2.global_position.x)
 	var y_dist = abs(PLAYER1.global_position.y - PLAYER2.global_position.y)
-	var zoom_factor = max(0.7, x_dist / 1920, y_dist / 1080)
+	var zoom_factor = max(min_zoom, x_dist / (1920 + x_margin), y_dist / (1080 + y_margin))
 	zoom = Vector2(zoom_factor, zoom_factor)
