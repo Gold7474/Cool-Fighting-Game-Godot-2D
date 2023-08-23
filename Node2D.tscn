@@ -48,9 +48,10 @@ position = Vector2(91, 455)
 scale = Vector2(-88.9046, 120.185)
 
 [node name="Camera2D" type="Camera2D" parent="." node_paths=PackedStringArray("PLAYER1", "PLAYER2")]
+offset = Vector2(0, -80)
 script = ExtResource("3_a41ad")
 PLAYER1 = NodePath("../Character")
 PLAYER2 = NodePath("../Character2")
 x_margin = 500
 y_margin = 500
-min_zoom = 1
+min_zoom = 1.25
