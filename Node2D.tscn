@@ -21,9 +21,14 @@ GROUNDED_JUMP_VELOCITY = -850.0
 AERIAL_JUMP_VELOCITY = -800.0
 ACCELERATION = 40
 FALL_SPEED = 800
+player_number = 1
 
 [node name="TestPlatform" parent="." instance=ExtResource("2_cjn8j")]
 position = Vector2(578, 578)
+scale = Vector2(-1048.31, 122.308)
+
+[node name="TestPlatform6" parent="." instance=ExtResource("2_cjn8j")]
+position = Vector2(1599, 575)
 scale = Vector2(-1048.31, 122.308)
 
 [node name="TestPlatform2" parent="." instance=ExtResource("2_cjn8j")]
@@ -35,7 +40,11 @@ position = Vector2(592, 179)
 scale = Vector2(-276.752, 32.289)
 
 [node name="TestPlatform4" parent="." instance=ExtResource("2_cjn8j")]
-position = Vector2(94, 460)
+position = Vector2(534, 457)
+scale = Vector2(-88.9046, 120.185)
+
+[node name="TestPlatform5" parent="." instance=ExtResource("2_cjn8j")]
+position = Vector2(91, 455)
 scale = Vector2(-88.9046, 120.185)
 
 [node name="Camera2D" type="Camera2D" parent="." node_paths=PackedStringArray("PLAYER1", "PLAYER2")]
@@ -44,4 +53,6 @@ position_smoothing_enabled = true
 script = ExtResource("3_a41ad")
 PLAYER1 = NodePath("../Character")
 PLAYER2 = NodePath("../Character2")
+x_margin = 500
+y_margin = 500
 min_zoom = 1.25
