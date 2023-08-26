@@ -9,19 +9,24 @@
 [node name="Character" parent="." instance=ExtResource("2_c0prh")]
 position = Vector2(244, 467)
 scale = Vector2(3.88, 3.88)
-GROUNDED_JUMP_VELOCITY = -850.0
+SPEED = 900.0
+GROUNDED_JUMP_VELOCITY = -900.0
 AERIAL_JUMP_VELOCITY = -800.0
-ACCELERATION = 40
-FALL_SPEED = 800
-
-[node name="Character2" parent="." instance=ExtResource("2_c0prh")]
-position = Vector2(791, 464)
-scale = Vector2(3.88, 3.88)
-GROUNDED_JUMP_VELOCITY = -850.0
-AERIAL_JUMP_VELOCITY = -800.0
-ACCELERATION = 40
+ACCELERATION = 50
+FRICTION = 1000
 FALL_SPEED = 800
 player_number = 1
+
+[node name="Character2" parent="." instance=ExtResource("2_c0prh")]
+position = Vector2(916, 286)
+scale = Vector2(3.88, 3.88)
+SPEED = 900.0
+GROUNDED_JUMP_VELOCITY = -900.0
+AERIAL_JUMP_VELOCITY = -800.0
+ACCELERATION = 50
+FRICTION = 1000
+FALL_SPEED = 800
+player_number = 2
 
 [node name="TestPlatform" parent="." instance=ExtResource("2_cjn8j")]
 position = Vector2(578, 578)
@@ -40,11 +45,11 @@ position = Vector2(592, 179)
 scale = Vector2(-276.752, 32.289)
 
 [node name="TestPlatform4" parent="." instance=ExtResource("2_cjn8j")]
-position = Vector2(534, 457)
+position = Vector2(534, 313)
 scale = Vector2(-88.9046, 120.185)
 
 [node name="TestPlatform5" parent="." instance=ExtResource("2_cjn8j")]
-position = Vector2(91, 455)
+position = Vector2(92, 333)
 scale = Vector2(-88.9046, 120.185)
 
 [node name="Camera2D" type="Camera2D" parent="." node_paths=PackedStringArray("PLAYER1", "PLAYER2")]
